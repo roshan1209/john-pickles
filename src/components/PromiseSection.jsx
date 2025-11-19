@@ -1,9 +1,14 @@
+import {MdOutlineCleanHands} from "react-icons/md";
+import {FaSpa} from "react-icons/fa";
+import {IoHome} from "react-icons/io5";
+import {LuLeaf} from "react-icons/lu";
+
 export default function PromiseSection() {
     const promises = [
-        { icon: "home", title: "Homemade", desc: "Crafted in small batches using time-honored family recipes." },
-        { icon: "eco", title: "Fresh", desc: "Only the finest, locally-sourced produce makes it into our jars." },
-        { icon: "health_and_safety", title: "Hygienic", desc: "Prepared with the highest safety and cleanliness standards." },
-        { icon: "spa", title: "Natural Spices", desc: "Our flavor comes from pure, aromatic spices." },
+        { icon: <IoHome color={"Green"} />, title: "Homemade", desc: "Crafted in small batches using time-honored family recipes." },
+        { icon: <LuLeaf color={"Green"} />, title: "Fresh", desc: "Only the finest, locally-sourced produce makes it into our jars." },
+        { icon: <MdOutlineCleanHands color={"green"} />, title: "Hygienic", desc: "Prepared with the highest safety and cleanliness standards." },
+        { icon: <FaSpa color={"Green"} />, title: "Natural Spices", desc: "Our flavor comes from pure, aromatic spices." },
     ];
 
     return (
@@ -14,10 +19,10 @@ export default function PromiseSection() {
                 {promises.map((p, index) => (
                     <div
                         key={index}
-                        className="flex flex-col items-center text-center p-6 bg-white dark:bg-background-dark/50 rounded-xl shadow-sm"
+                        className="flex flex-col items-center text-center p-6 bg-white rounded-xl shadow-sm"
                     >
-                        <div className="flex items-center justify-center size-14 bg-primary/10 rounded-full mb-4">
-                            <span className="material-symbols-outlined text-primary text-3xl">{p.icon}</span>
+                        <div className="flex items-center justify-center size-16 bg-green-300 rounded-full mb-4">
+                            <span className="material-symbols-outlined text-3xl">{p.icon}</span>
                         </div>
 
                         <h3 className="font-bold text-lg mb-2">{p.title}</h3>

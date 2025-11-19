@@ -12,7 +12,7 @@ export default function SeeProductsSection() {
 
             <Link
                 href="/products"
-                className="bg-gray-400 text-white font-bold py-3 px-8 rounded-full shadow-lg hover:bg-opacity-90 transition"
+                className="bg-green-700 text-white font-bold py-3 px-8 rounded-full shadow-lg hover:bg-green-600 transition"
             >
                 See Our Pickles
             </Link>
