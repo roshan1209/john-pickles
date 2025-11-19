@@ -13,7 +13,7 @@ export default function PromiseSection() {
 
     return (
         <section className="flex flex-col items-center">
-            <h2 className="text-primary dark:text-[#90EE90] text-2xl font-bold pb-6 pt-5">Our Promise to You</h2>
+            <h2 className="text-primary text-2xl font-bold pb-6 pt-5">Our Promise to You</h2>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 w-full max-w-5xl px-4">
                 {promises.map((p, index) => (

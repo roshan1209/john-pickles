@@ -13,7 +13,7 @@ export default function ProductCard({ title, price, images }) {
                 <p className="text-lg font-bold text-primary">{title}</p>
                 <p className="text-sm text-text-light mt-1">From ₹{price}</p>
 
-                <Link href={`/products/${title.toLowerCase().replace(/\s+/g, "-")}`} className="mt-4 flex justify-center items-center h-10 px-4 rounded-full bg-green-700 text-white font-bold group-hover:bg-primary group-hover:bg-green-600 transition-colors">
+                <Link href={`/products/${title.toLowerCase().replace(/\s+/g, "-")}`} className="mt-4 flex justify-center items-center h-10 px-4 rounded-full bg-green-500 text-white font-bold group-hover:bg-primary group-hover:bg-green-600 transition-colors">
                     View Details
                 </Link>
             </div>
