@@ -1,6 +1,6 @@
 export default function BusinessInfo() {
     return (
-        <div className="flex flex-col items-center gap-6 w-full max-w-2xl mt-16 p-4">
+        <div className="flex flex-col items-center gap-6 w-full max-w-2xl p-8">
 
             <div className="text-center">
                 <h3 className="text-lg font-bold">Business Hours</h3>

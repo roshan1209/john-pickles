@@ -30,7 +30,7 @@ export default function ContactForm() {
                 </label>
 
                 {/* Submit */}
-                <button className="h-12 px-5 rounded-lg bg-gray-400 text-button-text font-bold hover:bg-accent/90 transition">
+                <button className="h-12 px-5 rounded-lg bg-green-500 text-white font-bold hover:bg-green-600 transition">
                     Send Message
                 </button>
             </div>

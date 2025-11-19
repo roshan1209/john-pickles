@@ -47,7 +47,7 @@ export default function ProductInfo({ product }) {
             {/* CTA Buttons */}
             <div className="flex flex-col gap-4 mt-4">
                 <button
-                    className="flex items-center justify-center gap-2 h-12 p-6 bg-green-500 text-white rounded-lg font-bold">
+                    className="flex items-center justify-center gap-2 h-12 p-6 bg-green-500 text-white hover:bg-green-600 rounded-lg font-bold">
                     <FaWhatsapp size={30} color="white"/>
                     Order on WhatsApp
                 </button>

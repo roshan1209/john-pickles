@@ -1,9 +1,8 @@
 import Link from "next/link";
 
 export default function ProductCard({ title, price, images }) {
-    console.log(images);
     return (
-        <div className="flex flex-col gap-4 pb-3 bg-surface-light rounded-xl overflow-hidden shadow-sm hover:shadow-lg transition-shadow duration-300 group">
+        <div className="flex flex-col gap-4 pb-3 bg-white rounded-xl overflow-hidden shadow-sm hover:shadow-lg transition-shadow duration-300 group">
             <div
                 className="w-full bg-center bg-cover aspect-square"
                 style={{ backgroundImage: `url(${images[0]})` }}
