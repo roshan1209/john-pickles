@@ -1,0 +1,107 @@
+[
+  {
+    "title": "Brinjal Pickle",
+    "description": "A rich and flavorful brinjal pickle made with slow-roasted spices and sun-cooked brinjal slices, offering a deep, earthy taste.",
+    "images": [
+      "https://lh3.googleusercontent.com/aida-public/AB6AXuCOEgIEyY4g1OLlTUeT99lN7RrP0hL0Jxc78JoXa83iGnMOkdKsxCgvVUvdZZSExHQGfHlWCY7DG_mEW-Slq3hi8SsYwZEJAeYSOVAq1fcQHdmKBx1QQYxX6gj1VRDhrcBwnp8TIrc2PkOgXQn0YWCzTOiwSh5vbiZ7eeIqUYaFXS7IXggsAL-bsnsKrEs8ywLHFDKKK3-EwIhv7DUnG5j9E2Vub9ijUS6EZ1LfzZwe3FWtJKQ_kXFxQEVpvoxXpmdEgm6UO1sWwvM",
+      "https://placeholder.com/brinjal-pickle-2"
+    ],
+    "price": "130",
+    "tags": [
+      { "icon": "restaurant", "label": "Home-Style", "color": "bg-purple-400/20 text-purple-800" },
+      { "icon": "eco", "label": "100% Vegan", "color": "bg-green-400/20 text-green-800" }
+    ],
+    "sizes": [
+      { "label": "250g Jar", "price": "₹130", "selected": true },
+      { "label": "500g Jar", "price": "₹240", "selected": false }
+    ],
+    "reviews": [
+      { "user": "Deepa S.", "rating": 5, "comment": "Very flavorful, soft brinjal and perfect spice blend!" },
+      { "user": "Kiran P.", "rating": 4, "comment": "Tastes like homemade! Slightly oily but delicious." }
+    ]
+  },
+  {
+    "title": "Ginger Pickle",
+    "description": "A bold, spicy yet refreshing ginger pickle made with tender ginger slices, perfect for digestion and packed with flavor.",
+    "images": [
+      "https://lh3.googleusercontent.com/aida-public/AB6AXuDgn3AjB9BAFnRvqWDo0Dhogx3D-y_6p6NdYjJYvSEz4cbTDvMmLLDporKGpxx6CImR8TN55HkmOH6JcPKWlDZ0pTh6eNJWElyoxWjUTkQ5w1qCbLXy58bcR7uUOVzbYkArhpUeNPA8nvSaA5usww41O-0wS6OBMu5qwuxKtU1Ut00x3NGBKGytY2afGTWI6MescLHIoUA1pzT8P83ER9Jzk5qT8S5qhQ-YGNK1LQzaKaNc1BgLNq0C9S-TzV4WE3tvRGsdbHrgETQ",
+      "https://placeholder.com/ginger-pickle-2"
+    ],
+    "tags": [
+      { "icon": "local_fire_department", "label": "Strong & Spicy", "color": "bg-red-400/20 text-red-800" },
+      { "icon": "medical_services", "label": "Immunity Booster", "color": "bg-yellow-400/20 text-yellow-800" }
+    ],
+    "price": "140",
+    "sizes": [
+      { "label": "250g Jar", "price": "₹140", "selected": true },
+      { "label": "500g Jar", "price": "₹260", "selected": false }
+    ],
+    "reviews": [
+      { "user": "Anita R.", "rating": 5, "comment": "Perfect ginger heat! Helps digestion too." },
+      { "user": "Sonu J.", "rating": 4, "comment": "Strong flavor but very addictive!" }
+    ]
+  },
+  {
+    "title": "Lemon Pickle",
+    "description": "A classic tangy lemon pickle prepared using fresh lemons, traditional spices, and sun-curing for authentic flavor.",
+    "images": [
+      "https://lh3.googleusercontent.com/aida-public/AB6AXuBjrL2OjVe_S9MNBAI3dUUT3FE-Woj6daIfiaaIg1A_UIXNSR5JJapgwkT-fcOnpDN8osO0UlYoXH_cKP53ui9on6RYmvaaoFn7tGeFElDrRGROIG5W-0Pjnmq1wFCOQUUDdF7HbH9j9NbAfZEQ07Wz_iPCLW2gXuX2ZN--6q_afiELAEFEVT1iM3CiD4fBglqEblnt91mXEFIGYm4wmxxcyr9Hd7tyzCxAoReRdUPG9jjqyhft-mtidvMzTJk7MCFOMGDf8GtddO0",
+      "https://placeholder.com/lemon-pickle-2"
+    ],
+    "tags": [
+      { "icon": "sunny", "label": "Sun-Cured", "color": "bg-yellow-300/20 text-yellow-800" },
+      { "icon": "heart_broken", "label": "Sweet & Tangy", "color": "bg-orange-300/20 text-orange-800" }
+    ],
+    "price": "110",
+    "sizes": [
+      { "label": "250g Jar", "price": "₹110", "selected": true },
+      { "label": "500g Jar", "price": "₹200", "selected": false }
+    ],
+    "reviews": [
+      { "user": "Manju R.", "rating": 5, "comment": "Soft lemon pieces and amazing balance of sweet and tangy." },
+      { "user": "Ravi S.", "rating": 4, "comment": "Reminds me of my grandma’s recipe!" }
+    ]
+  },
+  {
+    "title": "Mango Pickle",
+    "description": "Traditional raw mango pickle packed with bold spices, rich aroma and nostalgic homemade flavor.",
+    "images": [
+      "https://lh3.googleusercontent.com/aida-public/AB6AXuDX5nAPC_sYNIz-RjOMqe7s6jmeOwKt-n4TDjPeP6dorDemJAIRiKjlUhYrX2xXnvvUR45af-a5KJZcvbyYCXW_cayD7RDckvFU5skuv-kgY2JwOEP7MffQkuRadEwZ1pmb55tuzfQRmutOnRdD6QXFPzHE86BE8bOzcMa6WatP6Nb_g_HdZKn9VoaHhQvUL-IHrutNs5SJuBIoZdp8ROiO2mhS2tjp3LaHW-lxUMBna0k6zpM_qztHQD2EMAps-FfxWxekmHASqUs",
+      "https://placeholder.com/mango-pickle-2"
+    ],
+    "tags": [
+      { "icon": "local_fire_department", "label": "Spice Level: Medium", "color": "bg-red-400/20 text-red-800" },
+      { "icon": "eco", "label": "Fresh Mangoes", "color": "bg-green-400/20 text-green-800" }
+    ],
+    "price": "120",
+    "sizes": [
+      { "label": "250g Jar", "price": "₹120", "selected": true },
+      { "label": "500g Jar", "price": "₹220", "selected": false }
+    ],
+    "reviews": [
+      { "user": "Jaya T.", "rating": 5, "comment": "Perfectly spiced, loved the crunch!" },
+      { "user": "Vimal D.", "rating": 4, "comment": "Very tasty, could use a bit more oil." }
+    ]
+  },
+  {
+    "title": "Citron Pickle",
+    "description": "A rare and aromatic pickle made from hand-selected citron fruit, known for its intense citrus flavor and medicinal benefits.",
+    "images": [
+      "https://lh3.googleusercontent.com/aida-public/AB6AXuDdIfT49bZxWET17nk9OA7SI5joX7u9f-1eWHpPvMda7ZE1_40raInigt8ZJfxPGQ-lEZaijAh0HgLoOGXRoKvOBiTfVNrp3_TIgjUL4uzili4XupqcU_J22GqEgx04A9PxHNrknVZYiRS0vSVV7b93axD9JskEXGJ0VWSWKtE6WkrWxwmrZO0fb_VFDML5OtQhOSQkawQ1FAAWq2KpuKpo1FAmaYXsNVrZ8awGchckaaXAfoCGz7bwNnk7oAWr-gAL1r2n5hOWrxo",
+      "https://placeholder.com/citron-pickle-2"
+    ],
+    "tags": [
+      { "icon": "spa", "label": "Detox Friendly", "color": "bg-blue-300/20 text-blue-800" },
+      { "icon": "star", "label": "Premium Fruit Pickle", "color": "bg-purple-300/20 text-purple-800" }
+    ],
+    "price": "150",
+    "sizes": [
+      { "label": "250g Jar", "price": "₹150", "selected": true },
+      { "label": "500g Jar", "price": "₹280", "selected": false }
+    ],
+    "reviews": [
+      { "user": "Lakshmi M.", "rating": 5, "comment": "Unique taste! My family's favorite now." },
+      { "user": "Gokul R.", "rating": 4, "comment": "Very refreshing flavor, slightly strong aroma." }
+    ]
+  }
+]
